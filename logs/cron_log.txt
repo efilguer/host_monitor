@@ -1,0 +1,8 @@
+idle percent 0.815303
+cpu percent 99.1847
+idle percent 0.720551
+cpu percent 99.2794
+idle percent 0.62422
+cpu percent 99.3758
+idle percent 0.656045
+cpu percent 99.344
